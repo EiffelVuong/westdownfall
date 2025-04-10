@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://eiffelvuong.github.io/westdownfall/sitemap.xml
